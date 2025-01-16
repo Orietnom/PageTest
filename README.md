@@ -14,7 +14,7 @@ Dicionário de Dados do Cadastro Nacional
 	Para esse arquivo em específico, um .pdf, foi necessário utilizar o atalho de teclado "Ctrl + S" para abrir a janela de salvar como e o arquivo é salvo
 	Se o arquivo do portal não for mais recente, é enviado um email alertando que o arquivo no diretório já corresponde ao mais atualizado.
 
-#DADOS ABERTOS CNPJ
+DADOS ABERTOS CNPJ
 	Em seguida é acessada a página DADOS ABERTOS CNPJ, e clicado na primeira pasta com data
 	É obtida a tabela de arquivos como um data table
 	É realizada a mesma verificação de data do arquivo anterior, porém o arquivo baixado é .zip, além da mesma lógica de retentativa
