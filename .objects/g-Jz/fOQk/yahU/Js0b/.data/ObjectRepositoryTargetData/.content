@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="E7WPMb3bd02Z8fKctXIR0g" Reference="W-c-k75p-UuwDHAJyuxIzA/Js0bn8oMUUq-UGAFMck46A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj" CVScreenId="18999a57-214a-4b22-bf88-9f7b29421c47" CvTextArea="519, 303, 125, 20" CvTextArgument="Recursos*" CvType="Text" DesignTimeRectangle="576, 481, 983, 79" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='Recursos5' id='btnCollapse' tag='BUTTON' type='button' class='btn btn-light btn-block m-1 dataset-btn botao-collapse-Recursos collapsed' check:innerText='Recursos*' /&gt;" Guid="c4be036d-8681-459b-a1f8-c7e1bdd0bbbb" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Portal de Dados Abertos' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="18999a57-214a-4b22-bf88-9f7b29421c47" CvTextArea="519, 303, 101, 20" CvTextArgument="Recursos" CvType="Text" DesignTimeRectangle="597, 507, 101, 28" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Recursos' parentid='btnCollapse' tag='SPAN' type='' class='' check:innerText='Recursos' /&gt;" Guid="7ef65eb2-eee3-45f3-8d39-6766054c92c8" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="09608a46b651f736355931a79ef5ff1c.png" xmlns="">0rHJ16vY4YUqUPV9B0ceIJg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

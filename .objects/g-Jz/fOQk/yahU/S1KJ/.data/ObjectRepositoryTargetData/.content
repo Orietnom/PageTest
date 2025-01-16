@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="9oivF5F8q0CDOCWPDLjBCQ" Reference="W-c-k75p-UuwDHAJyuxIzA/S1KJBB9_e0yrj4hbbqJMkA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj" CVScreenId="3274772e-b618-43b7-92b9-8bdec5cd6e62" DesignTimeRectangle="916, 188, 283, 35" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;webctrl idx='11' parentid='collapse-recursos' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' parentid='collapse-recursos' tag='SPAN' class='inline-flex items-center p-2' aaname=' Data de atualização do arquivo: 04/10/2024 ' check:text='Data de atualização do arquivo:*' /&gt;" Guid="1cef4520-c883-4d8f-b819-071def8f52e1" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Portal de Dados Abertos' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3274772e-b618-43b7-92b9-8bdec5cd6e62" DesignTimeRectangle="740, 91, 819, 28" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='collapse-recursos' tag='H4' aaname='Dicionário de Dados do Cadastro Nacional da Pessoa Jurídica' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='collapse-recursos' tag='H4' aaname='Dicionário de Dados do Cadastro Nacional da Pessoa Jurídica' type='' class='' check:text='Dicionário de Dados do Cadastro Nacional da Pessoa Jurídica' /&gt;" Guid="af2061c8-e88b-46dd-88ea-286728920a84" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f096fbd64667505f6904863e2c5dca2c.png" xmlns="">0CoSKIgGGaEaz9unfa03vDg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7k5-9pJqyE2bbEceiOnEVw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj" CVScreenId="2ad4fa1c-d2b9-405b-b244-9c0fa574b4cf" DesignTimeRectangle="740, 648, 193, 38" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;webctrl id='btnDownloadUrl' idx='3' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl id='btnDownloadUrl' type='button' tag='BUTTON' class='btn btn btn-secondary btn-secondary' aaname=' Acessar o recurso ' check:innerText='Acessar o recurso' /&gt;" Guid="21ccf39a-6d08-4957-94d5-a4174de113d7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Portal de Dados Abertos' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="2ad4fa1c-d2b9-405b-b244-9c0fa574b4cf" DesignTimeRectangle="740, 516, 819, 28" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='collapse-recursos' tag='H4' aaname='Dicionário de Dados do Cadastro Nacional da Pessoa Jurídica' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='collapse-recursos' tag='H4' aaname='Dicionário de Dados do Cadastro Nacional da Pessoa Jurídica' type='' class='' check:text='Dicionário de Dados do Cadastro Nacional da Pessoa Jurídica' /&gt;" Guid="1338454f-3801-4846-aa10-c89619fd1f01" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="24719dd523bbdd79e5ac23bbdd5d2d19.png" xmlns="">0igFZsVFOuEakKKW56qvKUg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

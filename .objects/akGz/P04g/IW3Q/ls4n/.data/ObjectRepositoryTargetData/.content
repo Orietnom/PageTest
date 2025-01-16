@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="J0TPBt8j3E6il9jujqp_bQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2025-01" CVScreenId="c806595e-e93a-497c-8c64-f86eae09e078" CvTextArea="42, 353, 96, 18" CvTextArgument="Empresas0.zip" CvType="Text" DesignTimeRectangle="43, 352, 94, 17" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl tableRow='5' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' tag='A' class='' aaname='Empresas0.zip' check:innerText='Empresas0.zip' /&gt;" Guid="3f7bde1a-80e3-4d06-ab59-51f9f3e773b8" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Index of /dados/cnpj/dados_abertos_cnpj/*' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c806595e-e93a-497c-8c64-f86eae09e078" CvTextArea="93, 253, 43, 14" CvTextArgument="Name" CvType="Text" DesignTimeRectangle="95, 252, 40, 17" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl tableRow='1' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' tag='A' class='' aaname='Name' check:innerText='Name' /&gt;" Guid="f59b3d46-4f72-4b65-b7b4-54d0ec080e29" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ba3e8c5e08747e470de54a874d7e218d.png" xmlns="">08lfX9P28uU6G_JzgTkChFA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

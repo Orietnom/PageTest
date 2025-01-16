@@ -1,0 +1,45 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "national_register_of_legal_entities_att_date&Sequence_3",
+        "cnpj_open_data_att_date&Sequence_3",
+        "national_register_output_file&Sequence_3",
+        "open_data_folder&Sequence_3",
+        "national_register_folder&Sequence_3",
+        "email_status&Sequence_3",
+        "my_documents_folder&Sequence_10",
+        "page_test_output_path&Sequence_10",
+        "download_list&Sequence_39",
+        "file&Sequence_44"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "save.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "file_path_folder&Sequence_2",
+        "page_test_output_file&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_file_path",
+        "out_status"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

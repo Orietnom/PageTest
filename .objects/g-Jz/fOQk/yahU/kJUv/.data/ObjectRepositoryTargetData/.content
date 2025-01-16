@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="FHS6uKa5dUqy80b9WlD3AQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj" DesignTimeRectangle="895, 689, 532, 54" DesignTimeScaleFactor="1" FuzzySelectorArgument="&lt;webctrl type='' parentid='collapse-recursos' tag='SPAN' class='inline-flex items-center p-2' /&gt;" Guid="ab916aeb-72e0-48e2-8ece-ecf862b5afa4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Portal de Dados Abertos' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="62a2db4d-6a28-4623-999a-b4a298560b16" DesignTimeRectangle="740, 573, 819, 27" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='collapse-recursos' aaname='DADOS ABERTOS CNPJ' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='collapse-recursos' aaname='DADOS ABERTOS CNPJ' tag='H4' type='' class='' check:text='DADOS ABERTOS CNPJ' /&gt;" Guid="a2f50736-43b2-4a80-ad73-18270b7bd6ba" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="08f20acc133a17f22318e5262ce9e568.png" xmlns="">0UbFsQV6WXECBU44VLIIReg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

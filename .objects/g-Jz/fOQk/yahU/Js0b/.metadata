@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Recursos5",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "Js0bn8oMUUq-UGAFMck46A",
+  "Reference": "W-c-k75p-UuwDHAJyuxIzA/Js0bn8oMUUq-UGAFMck46A",
+  "ParentRef": "W-c-k75p-UuwDHAJyuxIzA/yahUFx5QFEqh0hHK7dpI-Q",
+  "Created": "2025-01-14T19:00:31.7562485Z",
+  "Updated": "2025-01-14T19:17:56.930285Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

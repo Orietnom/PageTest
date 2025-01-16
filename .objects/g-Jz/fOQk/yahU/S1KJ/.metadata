@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Dicionário de Dados do …",
+  "Type": "Element",
+  "TaxonomyType": "Elemento",
+  "Id": "S1KJBB9_e0yrj4hbbqJMkA",
+  "Reference": "W-c-k75p-UuwDHAJyuxIzA/S1KJBB9_e0yrj4hbbqJMkA",
+  "ParentRef": "W-c-k75p-UuwDHAJyuxIzA/yahUFx5QFEqh0hHK7dpI-Q",
+  "Created": "2025-01-14T19:23:57.6927948Z",
+  "Updated": "2025-01-14T19:47:46.06618Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

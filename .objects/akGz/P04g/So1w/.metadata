@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Audit History",
+  "Type": "Screen",
+  "Id": "So1wgRq8sUO-k7ThGuKdUQ",
+  "Reference": "W-c-k75p-UuwDHAJyuxIzA/So1wgRq8sUO-k7ThGuKdUQ",
+  "ParentRef": "W-c-k75p-UuwDHAJyuxIzA/P04g1lLBQ0KDhAprDBokbg",
+  "Created": "2025-01-14T23:21:47.8390476Z",
+  "Updated": "2025-01-14T23:21:47.8390476Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

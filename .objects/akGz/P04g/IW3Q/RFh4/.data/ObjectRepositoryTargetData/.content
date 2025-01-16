@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zE9KaQU940ykZTatX9WEwA" Reference="W-c-k75p-UuwDHAJyuxIzA/RFh4nKDJxUimSQFdxM4CjA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj" CVScreenId="cae5b9a3-5037-41ed-ae32-50b3800e8722" ContentHash="VK0yZuQGSEe5EymsZKFLlg" DesignTimeRectangle="43, 352, 58, 17" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;html app='chrome.exe' title='Index of /dados/cnpj/dados_abertos_cnpj' /&gt;&lt;webctrl tag='TABLE' /&gt;&lt;webctrl tableRow='5' tag='A' colName='Name' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' tag='A' colName='Name' class='' aaname='2025-01/' check:text='*' /&gt;" Guid="09018079-21b6-42b5-b50e-6e388af01375" ImageBase64="" Reference="W-c-k75p-UuwDHAJyuxIzA/RFh4nKDJxUimSQFdxM4CjA" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Index of /dados/cnpj/dados_abertos_cnpj' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="cae5b9a3-5037-41ed-ae32-50b3800e8722" DesignTimeRectangle="76, 252, 40, 17" ElementType="Text" FullSelectorArgument="&lt;html app='chrome.exe' title='Index of /dados/cnpj/dados_abertos_cnpj' /&gt;&lt;webctrl tag='TABLE' /&gt;&lt;webctrl tableRow='1' tag='A' aaname='Name' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' tag='A' class='' aaname='Name' check:text='Name' /&gt;" Guid="94f63c58-9ec7-4634-870f-11815d7a041c" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="286ebc7c370b6db80e72ad7214cc6be5.png" xmlns="">0C9t78RQaG0aP_sLpTOt92Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

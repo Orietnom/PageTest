@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Salvar como",
+  "Type": "App",
+  "Id": "CuGfE82t10CdJzVzrJyPEQ",
+  "Reference": "W-c-k75p-UuwDHAJyuxIzA/CuGfE82t10CdJzVzrJyPEQ",
+  "Created": "2025-01-14T23:57:43.7297182Z",
+  "Updated": "2025-01-14T23:57:43.7297182Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

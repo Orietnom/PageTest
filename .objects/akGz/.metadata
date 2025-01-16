@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Audit History",
+  "Type": "App",
+  "Id": "akGztp6B5E-xgCsiG8MfHw",
+  "Reference": "W-c-k75p-UuwDHAJyuxIzA/akGztp6B5E-xgCsiG8MfHw",
+  "Created": "2025-01-14T23:21:47.7616498Z",
+  "Updated": "2025-01-14T23:21:47.7616498Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
